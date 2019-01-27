@@ -47,7 +47,7 @@ int main()
 		}
 		for (j = 0; j < countOfLen; j++)
 		{
-			printf("*");
+			printf("█");
 		}
 		printf("\n");
 	}
